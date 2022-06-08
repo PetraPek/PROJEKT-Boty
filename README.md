@@ -20,7 +20,7 @@ Cílem projektu je procvičit si použití různých technik:
   - umístit zelenou a bílou polovinu gafického návrhu vedle sebe (obě jsou stejně velké)
   - seznam velikostí boty - položky seznamu dát pomocí flexboxu vedle sebe na řádek
 - **Absolutní pozicování**
-  - obrázek boty napozicovat v rámci levé poloviny tak, že z ní trčí ven
+  - obrázek boty napozicovat v rámci levé poloviny tak, že z ní trčí ven - DONE
   - absolutní pozicování asi použiješ i na cenovku v pravém dolním rohu levé části designu
   - a možná i na umístění tlačítka do levého dolního rohu bílé poloviny (volitelně)
 - **Margin a padding**
